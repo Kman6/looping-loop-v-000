@@ -1,5 +1,7 @@
 def looping
-	#your code here
+	loop do
+	  puts "The levitation charm Wingardium Leviosa"
+	end
 end
 
-#call your method here
+looping
